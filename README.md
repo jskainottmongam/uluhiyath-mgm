@@ -1,0 +1,2 @@
+# uluhiyath-mgm
+calculating share
